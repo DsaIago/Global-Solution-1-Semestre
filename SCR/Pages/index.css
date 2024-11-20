@@ -24,6 +24,7 @@
 
 .banner-container1 {
     background-color: #FAFAFA;
+    color: #424C66;
 }
 
 .btn {
@@ -65,5 +66,8 @@
 }
 
 .banner-container2 {
+    color: #424C66;
     background-color: #FFFF;
+    text-align: center;
+
 }
